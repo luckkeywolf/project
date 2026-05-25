@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Lance</h1>
-<h3 align="center">Aspiring IT professional</h3>
+# Hi, I'm Lance 👋
+### Aspiring Full-Stack Developer | Learning React, Python, and C
 
-L
