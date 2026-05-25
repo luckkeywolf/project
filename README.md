@@ -1,11 +1,49 @@
 <h1 align="center">Hi 👋, I'm Lance</h1>
 <h3 align="center">Aspiring IT professional</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/LuckKey-Rawr](https://github.com/LuckKey-Rawr)
+Lance Cadag
+Toronto, ON
+(902) 303-7898
+Azsper@gmail.com
+________________________________________
+Professional Summary
+Motivated and hardworking individual with experience working in fast-paced environments and hands-on technical work. Interested in computer technology, troubleshooting, and learning new technical skills. Friends and peers often rely on me for help with computer issues, setup, and basic troubleshooting. Able to adapt quickly, work well with teams, and stay organized under pressure. Looking for opportunities to grow my experience in technology, customer service, or other hands-on work environments.
+________________________________________
+Skills
+•	Basic Programming Languages: HTML, CSS, Python, SQL, Java, C# 
+•	Basic Computer Troubleshooting & Technical Support 
+•	Hands-On Technical & Computer Hardware Knowledge 
+•	Software Installation & Basic System Setup 
+•	Strong Typing & Data Entry Skills 
+•	Customer Service & Communication 
+•	Teamwork & Collaboration 
+•	Time Management & Organization 
+•	Machine Operation Experience 
+•	Fast Learner with Problem-Solving Skills 
+•	Ability to Work in Fast-Paced Environments 
+•	Comfortable Learning New Technologies and Systems 
+________________________________________
 
-- 📫 How to reach me **chiica1121@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/LuckKey-Rawr](https://github.com/LuckKey-Rawr)
+
+
+Work Experience
+McDonald’s — Team Member
+Toronto, ON | April 2022 – Present
+•	Provide customer service in a fast-paced work environment. 
+•	Prepare food while following safety and quality standards. 
+•	Operate kitchen and service equipment safely. 
+•	Maintain cleanliness and organization in the workplace. 
+•	Work with team members to keep operations running smoothly. 
+•	Help manage customer flow during busy hours. 
+Master Packaging — Seasonal Production Worker
+PEI, Canada | Summer 2020 & Summer 2021
+•	Operated packaging and production machinery safely. 
+•	Helped maintain product quality and company standards. 
+•	Worked with team members to meet production goals. 
+•	Followed workplace safety procedures and guidelines. 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
