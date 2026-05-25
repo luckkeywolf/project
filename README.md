@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lance</h1>
-<h3 align="center">Aspiring IT Support Technician with Hands-On Technical Skills</h3>
+<h3 align="center">Aspiring IT professional</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/LuckKey-Rawr](https://github.com/LuckKey-Rawr)
 
