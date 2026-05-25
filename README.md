@@ -21,14 +21,14 @@ I enjoy learning by building small projects that help me improve problem-solving
 	- Build an IT help Desk Website (practice)
 	- Build a calorie tracking web app with login functionality
 
-####🐍 Python — logic building and backend basics (coming next)
+#### 🐍 Python — logic building and backend basics (coming next)
 
 	- Learn basic syntax and problem-solving
 	- Explore backend fundementals.
 	- Connect Phyton backend with React frontend
 	- Improve and extend existing React pprojects using backend logic
 
-####💻 C — fundamentals, memory, and low-level programming (later stage)
+#### 💻 C — fundamentals, memory, and low-level programming (later stage)
 
 	- Learn programming fundementals
 	- Understand memory management and low-level concepts
